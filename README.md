@@ -1,5 +1,3 @@
-
-```markdown
 # 💎 Diamond Price Prediction
 
 This project predicts the price of diamonds based on various features like carat, cut, color, clarity, depth, and table.  
@@ -9,20 +7,17 @@ It involves **EDA, Model Training, and Deployment** using Flask.
 
 ## 📂 Project Structure
 
-```
-
 DiamondPricePrediction/
-│── DiamondPricePrediction.egg-info/   # Package info
-│── src/DiamondPricePrediction/        # Source code (modules, pipeline, utils)
-│── EDA.ipynb                          # Exploratory Data Analysis
-│── Model Training.ipynb               # Model training & evaluation
-│── application.py                     # Flask app for deployment
-│── gemstone.csv                       # Dataset used for training
-│── requirements.txt                   # Required Python libraries
-│── setup.py                           # For packaging
-│── README.md                          # Project documentation
+│── DiamondPricePrediction.egg-info/ # Package info
+│── src/DiamondPricePrediction/ # Source code (modules, pipeline, utils)
+│── EDA.ipynb # Exploratory Data Analysis
+│── Model Training.ipynb # Model training & evaluation
+│── application.py # Flask app for deployment
+│── gemstone.csv # Dataset used for training
+│── requirements.txt # Required Python libraries
+│── setup.py # For packaging
+│── README.md # Project documentation
 
-````
 
 ---
 
@@ -53,49 +48,38 @@ The dataset `gemstone.csv` contains features such as:
    ```bash
    git clone https://github.com/your-username/DiamondPricePrediction.git
    cd DiamondPricePrediction
-````
 
-2. Create virtual environment and install dependencies:
 
-   ```bash
-   pip install -r requirements.txt
-   ```
+Create virtual environment and install dependencies:
 
-3. Run the Flask application:
+pip install -r requirements.txt
 
-   ```bash
-   python application.py
-   ```
 
-4. Open in browser:
+Run the Flask application:
 
-   ```
-   http://127.0.0.1:5000/
-   ```
+python application.py
 
----
 
-## 📌 Requirements
+Open in browser:
 
-See `requirements.txt` for complete details.
+http://127.0.0.1:5000/
 
----
+📌 Requirements
 
-## 📈 Results
+See requirements.txt for complete details.
 
-* Best performing model achieved high R² score with optimized hyperparameters.
-* Interactive Flask app allows users to input diamond details and get predicted price.
+📈 Results
 
----
+Best performing model achieved high R² score with optimized hyperparameters.
 
-## 🙌 Author
+Interactive Flask app allows users to input diamond details and get predicted price.
 
-**Arun Gautam**
+🙌 Author
 
-* 📧 Email: [subashgautam088@gmail.com](mailto:subashgautam088@gmail.com)
-* 💼 [LinkedIn](https://www.linkedin.com/in/arun-gautam-20921822b)
-* 💻 [GitHub](https://github.com/subashgautam088)
+Arun Gautam
 
----
+📧 Email: subashgautam088@gmail.com
 
-```
+💼 LinkedIn
+
+💻 GitHub
