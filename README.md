@@ -8,15 +8,15 @@ It involves **EDA, Model Training, and Deployment** using Flask.
 ## 📂 Project Structure
 
 DiamondPricePrediction/
-│── DiamondPricePrediction.egg-info/ # Package info
-│── src/DiamondPricePrediction/ # Source code (modules, pipeline, utils)
-│── EDA.ipynb # Exploratory Data Analysis
-│── Model Training.ipynb # Model training & evaluation
-│── application.py # Flask app for deployment
-│── gemstone.csv # Dataset used for training
-│── requirements.txt # Required Python libraries
-│── setup.py # For packaging
-│── README.md # Project documentation
+- │── DiamondPricePrediction.egg-info/ # Package info
+- │── src/DiamondPricePrediction/ # Source code (modules, pipeline, utils)
+- │── EDA.ipynb # Exploratory Data Analysis
+- │── Model Training.ipynb # Model training & evaluation
+- │── application.py # Flask app for deployment
+- │── gemstone.csv # Dataset used for training
+- │── requirements.txt # Required Python libraries
+- │── setup.py # For packaging
+- │── README.md # Project documentation
 
 
 ---
