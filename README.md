@@ -1,4 +1,5 @@
-```
+
+```markdown
 # 💎 Diamond Price Prediction
 
 This project predicts the price of diamonds based on various features like carat, cut, color, clarity, depth, and table.  
